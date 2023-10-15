@@ -1,5 +1,5 @@
 # Dhruv's Gym Club 
-website:https://dhruvsgym.pages.dev/
+Check out the website:https://dhruvsgym.pages.dev/
 
 During the COVID-19 lockdown, I conceptualized and developed a gym app using ReactJS. This app became a pivotal tool in transforming my fitness levels and overall well-being. Recognizing its potential, I extended its benefits to friends and family, leading to significant positive impacts on their lives as well. Inspired by this success, I decided to transform the app into a subscription-based fitness company, aiming to offer expert coaching and personalized fitness services to a broader audience.
 
